@@ -1,2 +1,3 @@
 # AdMOB-Controller
-simple controller for new google admob 
+Download package [here](https://github.com/KaganAyten/AdMOB-Controller/releases/download/unity/admobcontrollerv1.unitypackage)
+
